@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\bin\Debug\net6.0\TP1Ejercicio6.exe
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\bin\Debug\net6.0\TP1Ejercicio6.deps.json
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\bin\Debug\net6.0\TP1Ejercicio6.runtimeconfig.json
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\bin\Debug\net6.0\TP1Ejercicio6.dll
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\bin\Debug\net6.0\TP1Ejercicio6.pdb
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\TP1Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\TP1Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\TP1Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\TP1Ejercicio6.AssemblyInfo.cs
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\TP1Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\TP1Ejercicio6.dll
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\refint\TP1Ejercicio6.dll
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\TP1Ejercicio6.pdb
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\TP1Ejercicio6.genruntimeconfig.cache
+C:\Users\marce\Desktop\workspace\Programacion Avanzada\TP1\TP1Ejercicio6\TP1Ejercicio6\obj\Debug\net6.0\ref\TP1Ejercicio6.dll
