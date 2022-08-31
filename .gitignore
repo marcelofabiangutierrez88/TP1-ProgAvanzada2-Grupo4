@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/Ejercicio1/obj/Release/net6.0
+/TP1Ejercicio6/obj/Release/net6.0
+/testEjercicio1/.vs
+/testEjercicio
