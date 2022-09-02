@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generalidades", "Generalida
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversionesTest", "ConversionesTest\ConversionesTest.csproj", "{FE4F7D20-F8EB-4701-91C9-90605753DD23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeracionesTestt", "EnumeracionesTestt\EnumeracionesTestt.csproj", "{283D5BAD-226A-4C92-85BE-80E8DC898B5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeracionesTest", "EnumeracionesTestt\EnumeracionesTest.csproj", "{283D5BAD-226A-4C92-85BE-80E8DC898B5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralidadesTest", "GeneralidadesTestt\GeneralidadesTest.csproj", "{2EFF8D3D-7856-4486-AEAE-B2CF7F9CC801}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{283D5BAD-226A-4C92-85BE-80E8DC898B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{283D5BAD-226A-4C92-85BE-80E8DC898B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{283D5BAD-226A-4C92-85BE-80E8DC898B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFF8D3D-7856-4486-AEAE-B2CF7F9CC801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFF8D3D-7856-4486-AEAE-B2CF7F9CC801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFF8D3D-7856-4486-AEAE-B2CF7F9CC801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFF8D3D-7856-4486-AEAE-B2CF7F9CC801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
