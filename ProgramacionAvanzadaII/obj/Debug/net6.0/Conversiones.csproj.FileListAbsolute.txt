@@ -1,0 +1,15 @@
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\bin\Debug\net6.0\Conversiones.exe
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\bin\Debug\net6.0\Conversiones.deps.json
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\bin\Debug\net6.0\Conversiones.runtimeconfig.json
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\bin\Debug\net6.0\Conversiones.dll
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\bin\Debug\net6.0\Conversiones.pdb
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\Conversiones.csproj.AssemblyReference.cache
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\Conversiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\Conversiones.AssemblyInfoInputs.cache
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\Conversiones.AssemblyInfo.cs
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\Conversiones.dll
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\refint\Conversiones.dll
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\Conversiones.pdb
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\Conversiones.genruntimeconfig.cache
+C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ProgramacionAvanzadaII\obj\Debug\net6.0\ref\Conversiones.dll
