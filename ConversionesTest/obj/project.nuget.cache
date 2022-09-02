@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HGVKD0UZVFZixAe8LMcTH113ePNnkFaA35EVCJ/afc4q+PsaXemudWS2UqNTWMloBTM8Vkxm9ykjEV+9QTKXZA==",
+  "dgSpecHash": "9rKtDGtLYRDmqABPxYThxDkZX9R32j80wlotXFwPw3l5w1YqrDS6DE1vxSBPqn2L78sh2m0gRp7oBgz8gHyHwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ConversionesTest\\ConversionesTest.csproj",
+  "projectFilePath": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ConversionesTest\\ConversionesTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agustin Galarza\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Agustin Galarza\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -6357,11 +6357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ConversionesTest\\ConversionesTest.csproj",
+      "projectUniqueName": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ConversionesTest\\ConversionesTest.csproj",
       "projectName": "ConversionesTest",
-      "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ConversionesTest\\ConversionesTest.csproj",
+      "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ConversionesTest\\ConversionesTest.csproj",
       "packagesPath": "C:\\Users\\Agustin Galarza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ConversionesTest\\obj\\",
+      "outputPath": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ConversionesTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agustin Galarza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6378,8 +6378,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj": {
-              "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj"
+            "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ProgramacionAvanzadaII\\Conversiones.csproj": {
+              "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ProgramacionAvanzadaII\\Conversiones.csproj"
             }
           }
         }
