@@ -1788,16 +1788,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "Conversiones/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Conversiones.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Conversiones.dll": {}
-        }
       }
     }
   },
@@ -6335,16 +6325,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "Conversiones/1.0.0": {
-      "type": "project",
-      "path": "../ProgramacionAvanzadaII/Conversiones.csproj",
-      "msbuildProject": "../ProgramacionAvanzadaII/Conversiones.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Conversiones >= 1.0.0",
+      "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj",
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
@@ -6357,11 +6342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ConversionesTest\\ConversionesTest.csproj",
+      "projectUniqueName": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ConversionesTest\\ConversionesTest.csproj",
       "projectName": "ConversionesTest",
-      "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ConversionesTest\\ConversionesTest.csproj",
+      "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ConversionesTest\\ConversionesTest.csproj",
       "packagesPath": "C:\\Users\\Agustin Galarza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ConversionesTest\\obj\\",
+      "outputPath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ConversionesTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Agustin Galarza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6378,8 +6363,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ProgramacionAvanzadaII\\Conversiones.csproj": {
-              "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\ProgramacionAvanzadaII\\ProgramacionAvanzadaII\\Conversiones.csproj"
+            "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj": {
+              "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj"
             }
           }
         }
@@ -6430,5 +6415,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "No se encuentra el proyecto \"C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
+      "libraryId": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
