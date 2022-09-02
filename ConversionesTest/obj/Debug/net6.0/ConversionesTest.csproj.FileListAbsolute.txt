@@ -102,3 +102,11 @@ C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ConversionesTest\ob
 C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ConversionesTest\obj\Debug\net6.0\ConversionesTest.pdb
 C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ConversionesTest\obj\Debug\net6.0\ConversionesTest.genruntimeconfig.cache
 C:\Users\Agustin Galarza\source\repos\ProgramacionAvanzadaII\ConversionesTest\obj\Debug\net6.0\ref\ConversionesTest.dll
+C:\Users\Agustin Galarza\source\repos\TP1-ProgAvanzada2-Grupo4\ConversionesTest\obj\Debug\net6.0\ConversionesTest.csproj.AssemblyReference.cache
+C:\Users\Agustin Galarza\source\repos\TP1-ProgAvanzada2-Grupo4\ConversionesTest\obj\Debug\net6.0\ConversionesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin Galarza\source\repos\TP1-ProgAvanzada2-Grupo4\ConversionesTest\obj\Debug\net6.0\ConversionesTest.AssemblyInfoInputs.cache
+C:\Users\Agustin Galarza\source\repos\TP1-ProgAvanzada2-Grupo4\ConversionesTest\obj\Debug\net6.0\ConversionesTest.AssemblyInfo.cs
+C:\Users\Agustin Galarza\source\repos\TP1-ProgAvanzada2-Grupo4\ConversionesTest\obj\Debug\net6.0\ConversionesTest.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Galarza\source\repos\TP1-ProgAvanzada2-Grupo4\ConversionesTest\obj\Debug\net6.0\ConversionesTest.dll
+C:\Users\Agustin Galarza\source\repos\TP1-ProgAvanzada2-Grupo4\ConversionesTest\obj\Debug\net6.0\refint\ConversionesTest.dll
+C:\Users\Agustin Galarza\source\repos\TP1-ProgAvanzada2-Grupo4\ConversionesTest\obj\Debug\net6.0\ConversionesTest.pdb

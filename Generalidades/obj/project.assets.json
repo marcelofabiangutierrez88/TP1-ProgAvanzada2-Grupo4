@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Enumeraciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Enumeraciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Enumeraciones.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Enumeraciones/1.0.0": {
+      "type": "project",
+      "path": "../Enumeraciones/Enumeraciones.csproj",
+      "msbuildProject": "../Enumeraciones/Enumeraciones.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Enumeraciones >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Agustin Galarza\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\Enumeraciones\\Enumeraciones.csproj": {
+              "projectPath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\Enumeraciones\\Enumeraciones.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

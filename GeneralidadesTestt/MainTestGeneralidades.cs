@@ -1,5 +1,5 @@
 using Generalidades;
-namespace GeneralidadesTest
+namespace GeneralidadesTestt
 {
     [TestClass]
     public class MainGeneralidadesTest
