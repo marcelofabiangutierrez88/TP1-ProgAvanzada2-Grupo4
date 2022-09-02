@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "Qjh+PDaRH0aS1mKE6bkUUOYu+UIvKQ7Jht93IIKAxGyXc2fpm/eDSZZffZUXENyFUfNbuqghOalDn4UmWpgNPQ==",
-  "success": false,
+  "dgSpecHash": "HGVKD0UZVFZixAe8LMcTH113ePNnkFaA35EVCJ/afc4q+PsaXemudWS2UqNTWMloBTM8Vkxm9ykjEV+9QTKXZA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ConversionesTest\\ConversionesTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agustin Galarza\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
@@ -93,15 +93,5 @@
     "C:\\Users\\Agustin Galarza\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Agustin Galarza\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\Agustin Galarza\\source\\repos\\TP1-ProgAvanzada2-Grupo4\\ProgramacionAvanzadaII\\Conversiones.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
