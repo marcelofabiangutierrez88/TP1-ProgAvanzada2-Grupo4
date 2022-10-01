@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\bin\Debug\net6.0\GeneralidadesEjercicio4.exe
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\bin\Debug\net6.0\GeneralidadesEjercicio4.deps.json
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\bin\Debug\net6.0\GeneralidadesEjercicio4.runtimeconfig.json
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\bin\Debug\net6.0\GeneralidadesEjercicio4.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\bin\Debug\net6.0\GeneralidadesEjercicio4.pdb
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\GeneralidadesEjercicio4.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\GeneralidadesEjercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\GeneralidadesEjercicio4.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\GeneralidadesEjercicio4.AssemblyInfo.cs
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\GeneralidadesEjercicio4.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\GeneralidadesEjercicio4.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\refint\GeneralidadesEjercicio4.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\GeneralidadesEjercicio4.pdb
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\GeneralidadesEjercicio4.genruntimeconfig.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio4\obj\Debug\net6.0\ref\GeneralidadesEjercicio4.dll

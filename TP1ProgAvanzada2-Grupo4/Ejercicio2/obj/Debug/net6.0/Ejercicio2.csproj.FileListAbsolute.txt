@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
