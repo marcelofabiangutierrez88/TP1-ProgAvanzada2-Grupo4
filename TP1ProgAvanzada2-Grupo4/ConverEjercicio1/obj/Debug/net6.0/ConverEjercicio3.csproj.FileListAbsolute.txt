@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\bin\Debug\net6.0\ConverEjercicio3.exe
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\bin\Debug\net6.0\ConverEjercicio3.deps.json
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\bin\Debug\net6.0\ConverEjercicio3.runtimeconfig.json
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\bin\Debug\net6.0\ConverEjercicio3.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\bin\Debug\net6.0\ConverEjercicio3.pdb
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ConverEjercicio3.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ConverEjercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ConverEjercicio3.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ConverEjercicio3.AssemblyInfo.cs
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ConverEjercicio3.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ConverEjercicio3.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\refint\ConverEjercicio3.dll
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ConverEjercicio3.pdb
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ConverEjercicio3.genruntimeconfig.cache
+C:\Users\marce\Desktop\workspace\TP1-ProgAvanzada2-Grupo4\Ejercicio1\ConverEjercicio1\obj\Debug\net6.0\ref\ConverEjercicio3.dll

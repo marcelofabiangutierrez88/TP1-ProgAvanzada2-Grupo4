@@ -1,0 +1,396 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\TestGeneralidades\\TestGeneralidades.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio1\\GeneralidadesEjercicio1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio1\\GeneralidadesEjercicio1.csproj",
+        "projectName": "GeneralidadesEjercicio1",
+        "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio1\\GeneralidadesEjercicio1.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio2\\GeneralidadesEjercicio2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio2\\GeneralidadesEjercicio2.csproj",
+        "projectName": "GeneralidadesEjercicio2",
+        "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio2\\GeneralidadesEjercicio2.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio3\\GeneralidadesEjercicio3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio3\\GeneralidadesEjercicio3.csproj",
+        "projectName": "GeneralidadesEjercicio3",
+        "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio3\\GeneralidadesEjercicio3.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio4\\GeneralidadesEjercicio4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio4\\GeneralidadesEjercicio4.csproj",
+        "projectName": "GeneralidadesEjercicio4",
+        "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio4\\GeneralidadesEjercicio4.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio5\\GeneralidadesEjercicio5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio5\\GeneralidadesEjercicio5.csproj",
+        "projectName": "GeneralidadesEjercicio5",
+        "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio5\\GeneralidadesEjercicio5.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio5\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\TestGeneralidades\\TestGeneralidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\TestGeneralidades\\TestGeneralidades.csproj",
+        "projectName": "TestGeneralidades",
+        "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\TestGeneralidades\\TestGeneralidades.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\TestGeneralidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio1\\GeneralidadesEjercicio1.csproj": {
+                "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio1\\GeneralidadesEjercicio1.csproj"
+              },
+              "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio2\\GeneralidadesEjercicio2.csproj": {
+                "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio2\\GeneralidadesEjercicio2.csproj"
+              },
+              "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio3\\GeneralidadesEjercicio3.csproj": {
+                "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio3\\GeneralidadesEjercicio3.csproj"
+              },
+              "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio4\\GeneralidadesEjercicio4.csproj": {
+                "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio4\\GeneralidadesEjercicio4.csproj"
+              },
+              "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio5\\GeneralidadesEjercicio5.csproj": {
+                "projectPath": "C:\\Users\\marce\\Desktop\\workspace\\TP1-ProgAvanzada2-Grupo4\\Ejercicio1\\Ejercicio5\\GeneralidadesEjercicio5.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
