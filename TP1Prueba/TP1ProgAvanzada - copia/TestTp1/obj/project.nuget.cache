@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EerBgXoHXRarhQ2D4g6axD8XrUTCXsSORSGz5u32T8jtWLLwPB9H8RRc2rBZlN9uUDvTr0t3K1qRSH+yIUWnGA==",
+  "dgSpecHash": "fnXmpRDNQkRtcwwOSeIY0tiDMDJl2zHV+xPrMNPSMHVHxf+wG0ndnyeLILIbxjWqmffAOamnGHqJz0gW6vbMbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\regue\\Stocker\\TP1 Prog\\TP1Prueba\\TP1ProgAvanzada\\TestTp1\\TestTp1.csproj",
+  "projectFilePath": "C:\\Users\\regue\\Stocker\\TP1 Prog\\TP1Prueba\\TP1ProgAvanzada - copia\\TestTp1\\TestTp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\regue\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\regue\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
