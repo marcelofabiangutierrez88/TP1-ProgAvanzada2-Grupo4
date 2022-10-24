@@ -1,8 +1,0 @@
-C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\TP1ProgAvanzada\TP1ProgAvanzada\bin\Debug\TP1ProgAvanzada.exe.config
-C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\TP1ProgAvanzada\TP1ProgAvanzada\bin\Debug\TP1ProgAvanzada.exe
-C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\TP1ProgAvanzada\TP1ProgAvanzada\bin\Debug\TP1ProgAvanzada.pdb
-C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\TP1ProgAvanzada\TP1ProgAvanzada\obj\Debug\TP1ProgAvanzada.csproj.AssemblyReference.cache
-C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\TP1ProgAvanzada\TP1ProgAvanzada\obj\Debug\TP1ProgAvanzada.csproj.SuggestedBindingRedirects.cache
-C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\TP1ProgAvanzada\TP1ProgAvanzada\obj\Debug\TP1ProgAvanzada.csproj.CoreCompileInputs.cache
-C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\TP1ProgAvanzada\TP1ProgAvanzada\obj\Debug\TP1ProgAvanzada.exe
-C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\TP1ProgAvanzada\TP1ProgAvanzada\obj\Debug\TP1ProgAvanzada.pdb
