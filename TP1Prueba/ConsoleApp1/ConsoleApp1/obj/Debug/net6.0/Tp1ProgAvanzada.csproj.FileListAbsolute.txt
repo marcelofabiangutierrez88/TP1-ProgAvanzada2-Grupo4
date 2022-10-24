@@ -1,0 +1,15 @@
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Tp1ProgAvanzada.exe
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Tp1ProgAvanzada.deps.json
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Tp1ProgAvanzada.runtimeconfig.json
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Tp1ProgAvanzada.dll
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Tp1ProgAvanzada.pdb
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Tp1ProgAvanzada.csproj.AssemblyReference.cache
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Tp1ProgAvanzada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Tp1ProgAvanzada.AssemblyInfoInputs.cache
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Tp1ProgAvanzada.AssemblyInfo.cs
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Tp1ProgAvanzada.csproj.CoreCompileInputs.cache
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Tp1ProgAvanzada.dll
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Tp1ProgAvanzada.dll
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Tp1ProgAvanzada.pdb
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Tp1ProgAvanzada.genruntimeconfig.cache
+C:\Users\regue\Stocker\TP1 Prog\TP1Prueba\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Tp1ProgAvanzada.dll
